@@ -92,7 +92,7 @@ strong,span{
 }
 #edit-intro{
     display: block;
-    color:#097bbf;
+    color:#0672b1;
     font-family: 'Nunito', sans-serif;
 }
 .fab{
@@ -115,7 +115,7 @@ strong,span{
  -webkit-text-fill-color: transparent;
 }
 .blue{
-    color: #097bbf !important;
+    color: #08659b !important;
     font-size: 13px;
 }
 .stroke-transparent-blue {
